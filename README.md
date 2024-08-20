@@ -1,3 +1,5 @@
+Direct Access: [https://sujan326.github.io/Rock-Paper-Scissors/]( https://sujan326.github.io/Rock-Paper-Scissors/)
+
 🎮 Rock-Paper-Scissors Game
 Welcome to the classic Rock-Paper-Scissors game built with HTML, CSS, and JavaScript! 🎉
 
